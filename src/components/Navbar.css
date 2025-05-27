@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-right: auto;
+    margin-left: 10px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 12px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+a:hover{
+    color: orange;
+}

@@ -1,0 +1,24 @@
+.title{
+    margin: 10px 0;
+}
+
+.blogs-image{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.blog-detail{
+    margin: 10px 30px;
+}
+
+.blog-detail p{
+    text-indent: 2em;
+    text-align: justify;
+}
+
+btn-back{
+    background: black;
+}
